@@ -14,3 +14,4 @@ Hope it is clear and explanitory!
 > [JWT](https://github.com/Sak-drago/Writeup/blob/main/Web/JWT.md)
 
 ## Crypto
+> [Crime_Patrol](https://github.com/Sak-drago/Writeup/blob/main/Crypto/Crime_Patrol.md)
