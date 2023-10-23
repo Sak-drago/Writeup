@@ -16,7 +16,7 @@ We can access the time of the photo through `metadata`. As for flight details, w
 
 The website used to find `metadata` is [MetaData2Go](https://www.metadata2go.com/)
 
-![image](https://github.com/Sak-drago/Writeup/assets/116898248/417fde9a-48c1-4b3b-b8f7-be9c32470264)
+![image](https://github.com/Sak-drago/Writeup/assets/116898248/ee49a368-0e75-427e-b415-960c79d537ab)
 
 
 Here we can see that the image was taken on `6:55:36 3 september 2022`. 
