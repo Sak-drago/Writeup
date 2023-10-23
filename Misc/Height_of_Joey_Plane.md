@@ -1,5 +1,5 @@
 # Height Of Joeys Plane
-Helped me learn how to track flights just from a single image. Kinda crazy to see what all I could do with a single image
+How to track an entire plane just through a single image.
 ## Category
 **OSINT**
 ## Points
