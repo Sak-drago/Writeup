@@ -1,10 +1,8 @@
 # JWT 
-## *Jwt was the first problem I had solved, and was it fun learning about JSON Web Tokens!*##
-
-### Category
+## *Jwt was the first problem I had solved, and was it fun learning about JSON Web Tokens!*
+## Category
 **Website**
-
-### Points
+## Points
 **300**
 
 On opening the problem, we are directed to a website which says `Authentication Required`. The image has been attached below.
@@ -26,7 +24,7 @@ Now, we have been given the hint that we have to change the value of `"user_id":
 To do the same, we have to open a Token editor online. Surfing through the web, we find a website by name of [token.dev](https://token.dev/)
 
 Putting the above mentioned `jwt_session` token in, we are able to see all the key details.
-![image](https://github.com/Sak-drago/Writeup/assets/116898248/7006640f-e236-43d2-8306-bf9f38eb70c7)
+![image](https://github.com/Sak-drago/Writeup/assets/116898248/14c820bd-e2fb-4af1-875f-bfd9956111a6)
 
 Here, we can change the value of user_id to 0 and also change `alg` to none such that
 ```sh
