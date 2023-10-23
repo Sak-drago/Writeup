@@ -18,8 +18,6 @@ In the Encrypt.py we have been given, key and secret and Zlib.
 Zlib uses string compression where it uses DEFLATE Algorithm to compress the string.
 From figuring that out, we know what the string will have `d4rk` as part of its solution.
 Now, we use trial and error to figure out the output
-For example, using a dummy flag, `d4rk{xyz}c0de`.
-If we try to input `d4rk{a` then we get 6 bytes but if we input `d4rk{xy` we get 7 bytes (*This is because AES gives us the length of the string*)
 
 This bascically the message, that is the key on website compresses the message with string `":::"+(secret)+":::"+(message)` where secret and message are variable
 ### Check the file.
